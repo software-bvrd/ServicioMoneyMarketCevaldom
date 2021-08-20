@@ -1,0 +1,53 @@
+{
+  "SolOperaciones": {
+    "SOLOPER": {
+      "Negociacion": {
+        "VENDEDOR": " ",
+        "COMPRADOR": " ",
+        "MECANISMO": " ",
+        "MODALIDAD": " ",
+        "REFERENCIA": " ",
+        "PACTADA": " ",
+        "OBSERVACIONES": " "
+      },
+      "Liquidacion": {
+        "Contado": {
+          "ESQUEMA": " ",
+          "TIPO": " ",
+          "LIQUIDACION": " ",
+          "ISIN": " ",
+          "MONEDA": " ",
+          "TITULOS": " ",
+          "PRECIO": " ",
+          "IMPORTE": " "
+        },
+        "Permutas": {
+          "Permuta": {
+            "ISIN": " ",
+            "TITULOS": " "
+          }
+        },
+        "Plazo": {
+          "DIAS": " ",
+          "PRECIO": " ",
+          "IMPORTE": " "
+        }
+      },
+      "Cuentas": {
+        "Vendedores": {
+          "Vendedor": {
+            "CUENTA": " ",
+            "CANTIDAD": " "
+          }
+        },
+        "Compradores": {
+          "Comprador": {
+            "CUENTA": " ",
+            "CANTIDAD": " "
+          }
+        }
+      },
+      "VERIFICADOR": " "
+    }
+  }
+}

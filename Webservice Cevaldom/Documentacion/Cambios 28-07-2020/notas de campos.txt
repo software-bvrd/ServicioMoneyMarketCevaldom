@@ -1,0 +1,44 @@
+dbo.format_date(oper.fechaliq, 'DD/MM/YYYY') AS FECHA_LIQUIDACION
+NOTAS SOBRE CAMPOS WEBSERVICE CEVALDOM-BVRD:
+ORIGEN:
+COMPRA/VENTA/CRUZADA
+
+ACORDADA
+SE CAMBIO EL LABEL
+
+HORA:
+DEL ACUERDO DE LA OPERACION
+
+
+EL TIPO 
+SE ELIMINO
+
+MONEDA:
+SE ELIMINO
+
+TITULO
+SE ELIMINIO
+
+FACIAL:
+ES EL NOMINAL
+
+PRECIO
+SE CAMBIO EL LABEL A LIMPIO
+
+RENDIMIENTO:
+Es la TIR
+
+Para el TAG de Permutas: "Actualmente no APLICA"
+SI el campo modalidad es contraentrega debe estar los elementos
+del tag permnutas.
+
+Plazo-Precio 
+Cambio el label a Limpio
+
+Sucio: Se refiere al precio sucio
+Es incluyo
+
+Plazo:
+Mandar todo en 0 debido a que no se estan enviando actualmente
+
+para el TAG de Cuentas: "Actualmente no APLICA"

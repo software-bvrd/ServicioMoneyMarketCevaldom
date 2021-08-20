@@ -1,0 +1,429 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Comprobante de Negociación (Boleta)</title>
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+    <style type="text/css">
+        /*<![CDATA[*/
+
+        * {
+            line-height: 110%
+        }
+
+        body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, p, blockquote, th, td {
+            padding: 0px;
+            margin: 0px
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-size: 100%;
+            font-weight: normal
+        }
+
+        p, ul, ol, menu {
+            margin: 1.12em 0px
+        }
+
+        ol, ul {
+            margin-left: 40px
+        }
+
+            ol ul, ul ol, ul ul, ol ol {
+                margin-top: 0px;
+                margin-bottom: 0px
+            }
+
+        div.html-root > ol, div.html-root > ul, div.html-root > p {
+            margin-top: 0px
+        }
+
+        img, object {
+            border: 0px
+        }
+
+        .error {
+            border: 1px solid red;
+            color: red
+        }
+
+        body.interactive-page > .sheet {
+            margin: 10px
+        }
+
+        body.print-page {
+            background-color: #ccc
+        }
+
+            body.print-page > .sheet {
+                border: 2px solid darkblue;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                -moz-box-shadow: 5px 5px 5px #888;
+                -webkit-box-shadow: 5px 5px 5px #888;
+                box-shadow: 5px 5px 5px #888
+            }
+
+        .layer {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0px;
+            top: 0px
+        }
+
+        .action {
+            cursor: pointer
+        }
+
+        div.action:hover {
+            border: 1px solid #ddd
+        }
+
+        .sheet {
+            position: relative;
+            background-color: White
+        }
+
+        .s0 {
+            width: 720px;
+            height: 579px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s1 {
+            width: 720px;
+            height: 74px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s2 {
+            width: 352px;
+            height: 18px;
+            font-family: Calibri;
+            font-size: 11pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s3 {
+            width: 352px;
+            height: 20px;
+            font-family: Calibri;
+            font-size: 12pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            background-color: White
+        }
+
+        .s4 {
+            width: 88px;
+            height: 53px;
+            padding-left: 84px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s5 {
+            width: 720px;
+            height: 228px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s6 {
+            width: 170px;
+            height: 160px;
+            font-family: Arial;
+            font-size: 7pt;
+            color: Black;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s7 {
+            width: 164px;
+            height: 16px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 1px;
+            padding-bottom: 0px
+        }
+
+        .s8 {
+            width: 164px;
+            height: 15px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 1px;
+            padding-bottom: 0px
+        }
+
+        .s9 {
+            width: 164px;
+            height: 17px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 2px;
+            padding-bottom: 0px
+        }
+
+        .s10 {
+            width: 164px;
+            height: 18px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 2px;
+            padding-bottom: 0px
+        }
+
+        .s11 {
+            width: 130px;
+            height: 17px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s12 {
+            width: 130px;
+            height: 16px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s13 {
+            width: 667px;
+            height: 17px;
+            font-family: Arial;
+            font-size: 7pt;
+            color: Black;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s14 {
+            width: 300px;
+            height: 16px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            text-align: center;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 1px;
+            padding-bottom: 0px;
+            background-color: #8DB4E2
+        }
+
+        .s15 {
+            width: 46px;
+            height: 17px;
+            font-family: Arial;
+            font-size: 7pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s16 {
+            width: 303px;
+            height: 16px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            text-align: center;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 1px;
+            padding-bottom: 0px;
+            background-color: #8DB4E2
+        }
+
+        .s17 {
+            width: 132px;
+            height: 17px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s18 {
+            width: 132px;
+            height: 16px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s19 {
+            width: 132px;
+            height: 20px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            word-wrap: break-word;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s20 {
+            width: 170px;
+            height: 179px;
+            font-family: Arial;
+            font-size: 7pt;
+            color: Black;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s21 {
+            width: 720px;
+            height: 277px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s22 {
+            width: 418px;
+            height: 19px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            word-wrap: break-word;
+            text-align: center;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s23 {
+            width: 660px;
+            height: 16px;
+            font-family: Arial;
+            font-size: 10pt;
+            color: Black;
+            font-weight: bold;
+            word-wrap: break-word;
+            text-align: center;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 1px;
+            padding-bottom: 0px
+        }
+
+        .s24 {
+            width: 666px;
+            height: 36px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s25 {
+            width: 666px;
+            height: 37px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+
+        .s26 {
+            width: 720px;
+            height: 25px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-top: 0px;
+            padding-bottom: 0px
+        }
+        /*]]>*/
+    </style>
+</head>
+<body class="print-page">
+    <div id="page1" class="sheet" style="padding-left:77px;padding-right:19px;padding-top:19px;padding-bottom:19px;width:720px;height:1018px;"> <div id="wm_back" class="layer"> </div><div id="content" class="layer"> <div title="" class="FormatoBoleta s0" style="position:absolute;overflow:hidden;left:77px;top:19px;"> </div><div title="" class="Group s0" style="position:absolute;overflow:hidden;left:77px;top:19px;"> </div><div title="" class="group s0" style="position:absolute;overflow:hidden;left:77px;top:19px;"> </div><div title="" class="groupHeaderSection s1" style="position:absolute;overflow:hidden;left:77px;top:19px;"> </div><div title="" class="TextBox6 s2" style="position:absolute;overflow:hidden;left:77px;top:39px;">Comprobante de Negociación</div><div title="" class="TextBox1 s3" style="position:absolute;overflow:hidden;left:77px;top:19px;">Bolsa de Valores de la República Dominicana, S.A.</div>
+        <div title="" class="PictureBox2 s4" style="position:absolute;overflow:hidden;left:400px;top:5px;width:236px;height:81px;"> <img alt="" src="https://arm.bvrd.com.do/wp-content/uploads/2019/02/logo.svg" style="position:absolute;top:0px;left:84px;width:200px;height:69px;" />
+                                                       </div><div title="" class="detail s5" style="position:absolute;overflow:hidden;left:77px;top:93px;"> </div><div title="" class="Table3 s6" style="position:absolute;overflow:hidden;left:77px;top:110px;"> </div><div title="" class="TextBox30 s7" style="position:absolute;overflow:hidden;left:77px;top:110px;">Nemotécnico Local:</div><div title="" class="TextBox32 s8" style="position:absolute;overflow:hidden;left:77px;top:127px;">Código ISIN:</div><div title="" class="TextBox209 s7" style="position:absolute;overflow:hidden;left:77px;top:143px;">Fecha Emisión:</div><div title="" class="TextBox190 s8" style="position:absolute;overflow:hidden;left:77px;top:160px;">Fecha Vencimiento:</div><div title="" class="TextBox193 s7" style="position:absolute;overflow:hidden;left:77px;top:176px;">Tasa Cupón (%):</div><div title="" class="TextBox2 s9" style="position:absolute;overflow:hidden;left:77px;top:193px;">Moneda Emisión:</div><div title="" class="TextBox9 s9" style="position:absolute;overflow:hidden;left:77px;top:212px;">Valor Nominal Unitario:</div><div title="" class="TextBox3 s9" style="position:absolute;overflow:hidden;left:77px;top:231px;">Dias al Vencimiento:</div><div title="" class="TextBox4 s10" style="position:absolute;overflow:hidden;left:77px;top:250px;">Periodicidad:</div><div title="" class="TextBox7 s11" style="position:absolute;overflow:hidden;left:247px;top:110px;">CP1GAM01</div><div title="" class="TextBox8 s12" style="position:absolute;overflow:hidden;left:247px;top:127px;">DO8013300124</div><div title="" class="Table2 s13" style="position:absolute;overflow:hidden;left:77px;top:93px;"> </div><div title="" class="TextBox10 s14" style="position:absolute;overflow:hidden;left:77px;top:93px;">DATOS TITULO/VALOR</div><div title="" class="TextBox15 s15" style="position:absolute;overflow:hidden;left:383px;top:93px;"> </div><div title="" class="TextBox11 s16" style="position:absolute;overflow:hidden;left:435px;top:93px;">DATOS DE LA NEGOCIACION</div><div title="" class="TextBox12 s11" style="position:absolute;overflow:hidden;left:247px;top:143px;">12-05-2015</div><div title="" class="TextBox13 s12" style="position:absolute;overflow:hidden;left:247px;top:160px;">12-05-2020</div><div title="" class="TextBox14 s11" style="position:absolute;overflow:hidden;left:247px;top:176px;">0.000000</div><div title="" class="TextBox16 s11" style="position:absolute;overflow:hidden;left:247px;top:195px;">DOP</div><div title="" class="TextBox17 s12" style="position:absolute;overflow:hidden;left:247px;top:215px;">1.00</div><div title="" class="TextBox18 s12" style="position:absolute;overflow:hidden;left:247px;top:234px;">487</div><div title="" class="TextBox19 s11" style="position:absolute;overflow:hidden;left:247px;top:253px;">1</div><div title="" class="TextBox94 s17" style="position:absolute;overflow:hidden;left:605px;top:110px;">REVA</div><div title="" class="TextBox87 s17" style="position:absolute;overflow:hidden;left:605px;top:234px;">2000274.00</div><div title="" class="TextBox88 s17" style="position:absolute;overflow:hidden;left:605px;top:215px;" MELVIN=MELVIN>1550.600000</div><div title="" class="TextBox89 s17" style="position:absolute;overflow:hidden;left:605px;top:196px;">1,290.00</div><div title="" class="TextBox90 s18" style="position:absolute;overflow:hidden;left:605px;top:177px;">11-01-2019</div><div title="" class="TextBox91 s17" style="position:absolute;overflow:hidden;left:605px;top:160px;">19010826801</div><div title="" class="TextBox92 s17" style="position:absolute;overflow:hidden;left:605px;top:143px;">11:03AM</div><div title="" class="TextBox93 s18" style="position:absolute;overflow:hidden;left:605px;top:127px;">08-01-2019</div><div title="" class="TextBox96 s19" style="position:absolute;overflow:hidden;left:605px;top:291px;">ALPHA</div><div title="" class="Table1 s20" style="position:absolute;overflow:hidden;left:435px;top:110px;"> </div><div title="" class="TextBox20 s7" style="position:absolute;overflow:hidden;left:435px;top:110px;">Rueda:</div><div title="" class="TextBox21 s8" style="position:absolute;overflow:hidden;left:435px;top:127px;">Fecha de la Operación:</div><div title="" class="TextBox22 s7" style="position:absolute;overflow:hidden;left:435px;top:143px;">Hora de la Operación:</div><div title="" class="TextBox23 s8" style="position:absolute;overflow:hidden;left:435px;top:160px;">Númeo de Operación:</div><div title="" class="TextBox24 s7" style="position:absolute;overflow:hidden;left:435px;top:176px;">Fecha de Liquidación:</div><div title="" class="TextBox25 s9" style="position:absolute;overflow:hidden;left:435px;top:193px;">Valor Nominal:</div><div title="" class="TextBox26 s9" style="position:absolute;overflow:hidden;left:435px;top:212px;">Precio Limpio (%):</div><div title="" class="TextBox27 s9" style="position:absolute;overflow:hidden;left:435px;top:231px;">Valor Transado:</div><div title="" class="TextBox34 s10" style="position:absolute;overflow:hidden;left:435px;top:250px;">Valor Transado US$:</div><div title="" class="TextBox35 s9" style="position:absolute;overflow:hidden;left:435px;top:270px;">Rend. Equivalente (%):</div><div title="" class="TextBox29 s17" style="position:absolute;overflow:hidden;left:605px;top:253px;">39,744.44</div><div title="" class="TextBox86 s17" style="position:absolute;overflow:hidden;left:605px;top:272px;">0.00</div><div title="" class="TextBox28 s10" style="position:absolute;overflow:hidden;left:435px;top:291px;">Vendedor:</div><div title="" class="groupFooterSection s21" style="position:absolute;overflow:hidden;left:77px;top:321px;"> </div><div title="" class="TextBox95 s22" style="position:absolute;overflow:hidden;left:183px;top:546px;">Firma Autorizada por el Puesto de Bolsa</div><div title="" class="TextBox31 s23" style="position:absolute;overflow:hidden;left:77px;top:321px;">Espacio reservado para el Puesto de Bolsa</div><div title="" class="Shape2 s24" style="position:absolute;overflow:hidden;left:77px;top:338px;"> <img alt="" src="cd9ddfe1b34b41959092f1b6f2b79047" style="width:666px;height:37px;margin-left:0px;" /> </div><div title="" class="Shape1 s25" style="position:absolute;overflow:hidden;left:77px;top:374px;"> <img alt="" src="734c09ec87a345f8ad7950989b9d89e3" style="width:666px;height:37px;margin-left:0px;" /> </div><div title="" class="Shape3 s25" style="position:absolute;overflow:hidden;left:77px;top:411px;"> <img alt="" src="28965156500341bbb4f8aaec330f7bf0" style="width:666px;height:37px;margin-left:0px;" /> </div><div title="" class="Shape4 s24" style="position:absolute;overflow:hidden;left:77px;top:448px;"> <img alt="" src="98ea189a6dba48d8a07cb4e0cd1d7c72" style="width:666px;height:37px;margin-left:0px;" /> </div><div title="" class="pageFooterSection1 s26" style="position:absolute;overflow:hidden;left:77px;top:1012px;"> </div></div><div style="position:absolute;left:77px;top:19px;width:0px;height:1018px;"> </div><div style="position:absolute;left:797px;top:19px;width:0px;height:1018px;"> </div><div style="position:absolute;left:77px;top:19px;width:720px;height:0px;"> </div><div style="position:absolute;left:77px;top:1037px;width:720px;height:0px;"> </div></div>
+</body>
+</html> 

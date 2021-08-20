@@ -1,0 +1,16 @@
+{
+  "ConOperaciones": {
+    "SOLOPER": {
+      "VENDEDOR": " ",
+      "COMPRADOR": " ",
+      "MECANISMO": " ",
+      "MODALIDAD": " ",
+      "REFERENCIA": " ",
+      "PACTADA": " ",
+      "SOLICITUD": " ",
+      "OPERACION": " ",
+      "TRN": " ",
+	  "ESTADO": " "
+    }
+  }
+}

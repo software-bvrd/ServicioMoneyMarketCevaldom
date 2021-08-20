@@ -1,0 +1,269 @@
+﻿Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Service Operaciones Money Market a Celvadom has been successfully installed.
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Committing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Uninstalling assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Removing EventLog source Operaciones Money Market a Celvadom.
+Service Operaciones Money Market a Celvadom is being removed from the system...
+Service Operaciones Money Market a Celvadom was successfully removed from the system.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Service Operaciones Money Market a Celvadom has been successfully installed.
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Committing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Uninstalling assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Removing EventLog source Operaciones Money Market a Celvadom.
+Service Operaciones Money Market a Celvadom is being removed from the system...
+Service Operaciones Money Market a Celvadom was successfully removed from the system.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Service Operaciones Money Market a Celvadom has been successfully installed.
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Committing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Uninstalling assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Removing EventLog source Operaciones Money Market a Celvadom.
+Service Operaciones Money Market a Celvadom is being removed from the system...
+Service Operaciones Money Market a Celvadom was successfully removed from the system.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Service Operaciones Money Market a Celvadom has been successfully installed.
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Committing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Uninstalling assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Removing EventLog source Operaciones Money Market a Celvadom.
+Service Operaciones Money Market a Celvadom is being removed from the system...
+Service Operaciones Money Market a Celvadom was successfully removed from the system.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Service Operaciones Money Market a Celvadom has been successfully installed.
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Committing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Rolling back assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Restoring event log to previous state for source Operaciones Money Market a Celvadom.
+Uninstalling assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Removing EventLog source Operaciones Money Market a Celvadom.
+Service Operaciones Money Market a Celvadom is being removed from the system...
+Service Operaciones Money Market a Celvadom was successfully removed from the system.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Service Operaciones Money Market a Celvadom has been successfully installed.
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Committing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Uninstalling assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Removing EventLog source Operaciones Money Market a Celvadom.
+Service Operaciones Money Market a Celvadom is being removed from the system...
+Service Operaciones Money Market a Celvadom was successfully removed from the system.
+Installing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+Installing service Operaciones Money Market a Celvadom...
+Service Operaciones Money Market a Celvadom has been successfully installed.
+Creating EventLog source Operaciones Money Market a Celvadom in log Application...
+Committing assembly 'C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.InstallLog
+   assemblypath = C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe

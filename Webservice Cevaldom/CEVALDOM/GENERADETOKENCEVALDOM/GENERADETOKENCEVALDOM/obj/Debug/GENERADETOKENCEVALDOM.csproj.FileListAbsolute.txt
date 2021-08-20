@@ -1,0 +1,152 @@
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebApplication1.dll.config
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebApplication1.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebApplication1.pdb
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csc.exe
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csc.exe.config
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csc.rsp
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csi.exe
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csi.exe.config
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csi.rsp
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.AppContext.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Console.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.Compression.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.Pipes.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Claims.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.ValueTuple.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\vbc.exe
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\vbc.exe.config
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\vbc.rsp
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\VBCSCompiler.exe
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Antlr3.Runtime.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Newtonsoft.Json.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Web.Optimization.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebGrease.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Web.Optimization.xml
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Newtonsoft.Json.xml
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Antlr3.Runtime.pdb
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\GENERADETOKENCEVALDOM.csprojAssemblyReference.cache
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\GENERADETOKENCEVALDOM.csproj.CoreCompileInputs.cache
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\GENERADETOKENCEVALDOM.csproj.CopyComplete
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\WebApplication1.dll
+C:\Users\melvin.castillo\source\repos\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\WebApplication1.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\WebApplication1.dll
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\WebApplication1.pdb
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebApplication1.dll.config
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebApplication1.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebApplication1.pdb
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csc.exe
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csc.exe.config
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csc.rsp
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csi.exe
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csi.exe.config
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\csi.rsp
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.AppContext.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Collections.Immutable.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Console.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.Compression.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.FileSystem.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.IO.Pipes.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.AccessControl.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Claims.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.ValueTuple.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.XPath.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\vbc.exe
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\vbc.exe.config
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\vbc.rsp
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\VBCSCompiler.exe
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\roslyn\VBCSCompiler.exe.config
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Antlr3.Runtime.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\AspNet.ScriptManager.jQuery.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.Web.Infrastructure.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Newtonsoft.Json.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Web.Optimization.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\WebGrease.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Web.Optimization.xml
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Newtonsoft.Json.xml
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Antlr3.Runtime.pdb
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\GENERADETOKENCEVALDOM.csprojAssemblyReference.cache
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\GENERADETOKENCEVALDOM.csproj.CoreCompileInputs.cache
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\GENERADETOKENCEVALDOM.csproj.CopyComplete
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\WebApplication1.dll
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\Webservice Cevaldom\CEVALDOM\GENERADETOKENCEVALDOM\GENERADETOKENCEVALDOM\obj\Debug\WebApplication1.pdb

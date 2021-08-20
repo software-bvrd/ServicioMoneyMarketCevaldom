@@ -1,0 +1,50 @@
+<Respuesta>
+  <Estatus>OK</Estatus>
+  <Cuerpo>
+    <SolOperaciones>
+      <Encabezado>
+        <PROCESO>52679</PROCESO>
+        <ARCHIVO>SOLOPER.xml</ARCHIVO>
+        <CARGA>12/02/2020 04:02:58 PM</CARGA>
+        <REGISTROS>1</REGISTROS>
+        <ACEPTADOS>0</ACEPTADOS>
+        <RECHAZADOS>1</RECHAZADOS>
+      </Encabezado>
+      <Detalle>
+        <Aceptados/>
+        <Rechazados>
+          <RECOPER>
+            <VENDEDOR>UNICA</VENDEDOR>
+            <COMPRADOR>UNICA</COMPRADOR>
+            <MECANISMO>BVRD</MECANISMO>
+            <MODALIDAD>1</MODALIDAD>
+            <REFERENCIA>20020733922</REFERENCIA>
+            <PACTADA>07/02/2020</PACTADA>
+            <CAMPO>PACTADA</CAMPO>
+            <DESCRIPCION>La fecha de operación debe ser la misma del día de hoy.</DESCRIPCION>
+          </RECOPER>
+          <RECOPER>
+            <VENDEDOR>UNICA</VENDEDOR>
+            <COMPRADOR>UNICA</COMPRADOR>
+            <MECANISMO>BVRD</MECANISMO>
+            <MODALIDAD>1</MODALIDAD>
+            <REFERENCIA>20020733922</REFERENCIA>
+            <PACTADA>07/02/2020</PACTADA>
+            <CAMPO>PACTADA</CAMPO>
+            <DESCRIPCION>La fecha de liquidación no puede ser menor a la fecha de operación mecanismo.</DESCRIPCION>
+          </RECOPER>
+          <RECOPER>
+            <VENDEDOR>UNICA</VENDEDOR>
+            <COMPRADOR>UNICA</COMPRADOR>
+            <MECANISMO>BVRD</MECANISMO>
+            <MODALIDAD>1</MODALIDAD>
+            <REFERENCIA>20020733922</REFERENCIA>
+            <PACTADA>07/02/2020</PACTADA>
+            <CAMPO>LIQUIDACION</CAMPO>
+            <DESCRIPCION>El número de días de liquidación se debe encontrar entre 0 y 3.</DESCRIPCION>
+          </RECOPER>
+        </Rechazados>
+      </Detalle>
+    </SolOperaciones>
+  </Cuerpo>
+</Respuesta>

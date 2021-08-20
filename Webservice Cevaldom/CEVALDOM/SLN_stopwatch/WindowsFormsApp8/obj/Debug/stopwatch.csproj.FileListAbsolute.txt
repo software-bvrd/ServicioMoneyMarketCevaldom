@@ -1,0 +1,10 @@
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\obj\Debug\stopwatch.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\obj\Debug\stopwatch.csproj.GenerateResource.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Proyectos\Integracion MaeClear\Documentos\CEVALDOM\SLN_stopwatch\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

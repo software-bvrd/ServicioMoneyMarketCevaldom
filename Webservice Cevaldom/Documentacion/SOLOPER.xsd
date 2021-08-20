@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="SolOperaciones">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="SOLOPER" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Negociacion" minOccurs="1" maxOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="VENDEDOR"      minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="COMPRADOR"     minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="MECANISMO"     minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="MODALIDAD"     minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="REFERENCIA"    minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="PACTADA"       minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="OBSERVACIONES" minOccurs="0" maxOccurs="1"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Liquidacion" minOccurs="1" maxOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Contado" minOccurs="1" maxOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="ESQUEMA"     minOccurs="0" maxOccurs="1"/>
+                          <xs:element name="TIPO"        minOccurs="0" maxOccurs="1"/>
+                          <xs:element name="LIQUIDACION" minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="ISIN"        minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="MONEDA"      minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="TITULOS"     minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="PRECIO"      minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="IMPORTE"     minOccurs="1" maxOccurs="1"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Permutas" minOccurs="0" maxOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Permuta" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="ISIN"    minOccurs="0" maxOccurs="1"/>
+                                <xs:element name="TITULOS" minOccurs="0" maxOccurs="1"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Plazo" minOccurs="1" maxOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="DIAS"    minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="PRECIO"  minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="IMPORTE" minOccurs="1" maxOccurs="1"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Cuentas" minOccurs="0" maxOccurs="1">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Vendedores" minOccurs="0" maxOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Vendedor" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="CUENTA"   minOccurs="0" maxOccurs="1"/>
+                                <xs:element name="CANTIDAD" minOccurs="0" maxOccurs="1"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Compradores" minOccurs="0" maxOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Comprador" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="CUENTA"   minOccurs="0" maxOccurs="1"/>
+                                <xs:element name="CANTIDAD" minOccurs="0" maxOccurs="1"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="VERIFICADOR" type="xs:long" minOccurs="1" maxOccurs="1"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

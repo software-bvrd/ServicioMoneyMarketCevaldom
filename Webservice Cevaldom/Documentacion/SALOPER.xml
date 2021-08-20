@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SolOperaciones>
+  <Encabezado>
+    <PROCESO></PROCESO>
+    <ARCHIVO></ARCHIVO>
+    <CARGA></CARGA>
+    <REGISTROS></REGISTROS>
+    <ACEPTADOS></ACEPTADOS>
+    <RECHAZADOS></RECHAZADOS>
+  </Encabezado>
+  <Detalle>
+    <Aceptados>
+      <SOLOPER>
+        <VENDEDOR></VENDEDOR>
+        <COMPRADOR></COMPRADOR>
+        <MECANISMO></MECANISMO>
+        <MODALIDAD></MODALIDAD>
+        <REFERENCIA></REFERENCIA>
+        <PACTADA></PACTADA>
+        <SOLICITUD></SOLICITUD>
+        <OPERACION></OPERACION>
+        <VERIFICADOR></VERIFICADOR>
+      </SOLOPER>
+    </Aceptados>
+    <Rechazados>
+      <SOLOPER>
+        <VENDEDOR></VENDEDOR>
+        <COMPRADOR></COMPRADOR>
+        <MECANISMO></MECANISMO>
+        <MODALIDAD></MODALIDAD>
+        <REFERENCIA></REFERENCIA>
+        <PACTADA></PACTADA>
+        <CAMPO></CAMPO>
+        <DESCRIPCION></DESCRIPCION>
+      </SOLOPER>
+    </Rechazados>
+  </Detalle>
+</SolOperaciones>

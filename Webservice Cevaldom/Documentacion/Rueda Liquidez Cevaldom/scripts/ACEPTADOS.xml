@@ -1,0 +1,31 @@
+<Respuesta>
+  <Estatus>OK</Estatus>
+  <Cuerpo>
+    <SolOperaciones>
+      <Encabezado>
+        <PROCESO>52683</PROCESO>
+        <ARCHIVO>SOLOPER.xml</ARCHIVO>
+        <CARGA>12/02/2020 05:02:21 PM</CARGA>
+        <REGISTROS>1</REGISTROS>
+        <ACEPTADOS>1</ACEPTADOS>
+        <RECHAZADOS>0</RECHAZADOS>
+      </Encabezado>
+      <Detalle>
+        <Aceptados>
+          <SOLOPER>
+            <VENDEDOR>JMMB</VENDEDOR>
+            <COMPRADOR>JMMB</COMPRADOR>
+            <MECANISMO>BVRD</MECANISMO>
+            <MODALIDAD>1</MODALIDAD>
+            <REFERENCIA>20021033968</REFERENCIA>
+            <PACTADA>12/02/2020</PACTADA>
+            <SOLICITUD>800221</SOLICITUD>
+            <OPERACION>20021033968</OPERACION>
+            <VERIFICADOR>37063</VERIFICADOR>
+          </SOLOPER>
+        </Aceptados>
+        <Rechazados/>
+      </Detalle>
+    </SolOperaciones>
+  </Cuerpo>
+</Respuesta>

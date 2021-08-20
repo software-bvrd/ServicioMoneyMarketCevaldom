@@ -1,0 +1,51 @@
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Debug\MoneyMarketCevaldom.exe.config
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Debug\MoneyMarketCevaldom.exe
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Debug\MoneyMarketCevaldom.pdb
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.MoneyMarketCevaldom.resources
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Debug\MoneyMarketCevaldom.csproj.GenerateResource.cache
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Debug\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Debug\MoneyMarketCevaldom.exe
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Debug\MoneyMarketCevaldom.pdb
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Debug\MoneyMarketCevaldom.csprojAssemblyReference.cache
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csprojAssemblyReference.cache
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\WindowsService1.MoneyMarketCevaldom.resources
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.GenerateResource.cache
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.exe
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.pdb
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe.config
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe
+C:\Melvin Castillo\Sistemas\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe.config
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\WindowsService1.MoneyMarketCevaldom.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\WindowsService1.ProjectInstaller.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.GenerateResource.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe.config
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\WindowsService1.MoneyMarketCevaldom.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\WindowsService1.ProjectInstaller.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.GenerateResource.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom._servicio.resources
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe.config
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.exe
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Debug\MoneyMarketCevaldom.pdb
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\WindowsService1.MoneyMarketCevaldom.resources
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.ProjectInstaller.resources
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom._servicio.resources
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.GenerateResource.cache
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.exe
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.pdb
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Debug\MoneyMarketCevaldom.csprojAssemblyReference.cache

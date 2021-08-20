@@ -1,0 +1,30 @@
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe.config
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.exe
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\bin\Release\MoneyMarketCevaldom.pdb
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Release\WindowsService1.MoneyMarketCevaldom.resources
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Release\MoneyMarketCevaldom.csproj.GenerateResource.cache
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Release\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Release\MoneyMarketCevaldom.exe
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Release\MoneyMarketCevaldom.pdb
+C:\Users\melvin.castillo\source\repos\WindowsService1\WindowsService1\obj\Release\MoneyMarketCevaldom.csprojAssemblyReference.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Release\MoneyMarketCevaldom.exe.config
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Release\MoneyMarketCevaldom.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Release\MoneyMarketCevaldom.pdb
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\WindowsService1.MoneyMarketCevaldom.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\WindowsService1.ProjectInstaller.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom._servicio.resources
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.csproj.GenerateResource.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.exe
+\\app\Documento\melvin.castillo\Documents\Melvin Castillo\_backup\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.pdb
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Release\MoneyMarketCevaldom.exe.config
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Release\MoneyMarketCevaldom.exe
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\bin\Release\MoneyMarketCevaldom.pdb
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\WindowsService1.MoneyMarketCevaldom.resources
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.ProjectInstaller.resources
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom._servicio.resources
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.csproj.GenerateResource.cache
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.csproj.CoreCompileInputs.cache
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.exe
+C:\Melvin Castillo\Sistemas\Sistemas\BVRD\ServicioMoneyMarketCevaldom\ServicioMoneyMarketCevaldom\obj\Release\MoneyMarketCevaldom.pdb

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WindowsFormsApp1</name>
+    </assembly>
+    <members>
+        <member name="M:WindowsFormsApp1.Form1.#ctor">
+            <summary>
+            inicializacion de formulario
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Form1.ConectionString">
+            Conexion a la Base de datos 
+        </member>
+        <member name="M:WindowsFormsApp1.Form1.DsObtieneCodigo">
+            <summary>
+            Genera el COdigo desde la base de datos
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Form1.button1_Click(System.Object,System.EventArgs)">
+            Al hacer click en este boton generar el codigo, la fecha y el token solicitado por cevaldom
+        </member>
+        <member name="F:WindowsFormsApp1.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Form2.#ctor">
+            <summary>
+            Inicializacion del formulario
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Form2.button1_Click(System.Object,System.EventArgs)">
+             <summary>
+             solo para probar documentaciond de boton en form2
+             </summary>
+            solo para probar documentaciond de boton en form2
+        </member>
+        <member name="F:WindowsFormsApp1.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:WindowsFormsApp1.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:WindowsFormsApp1.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:WindowsFormsApp1.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:WindowsFormsApp1.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

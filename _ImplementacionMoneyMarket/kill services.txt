@@ -1,0 +1,3 @@
+   sc queryex "_Operaciones BVRD-Cevaldom"
+   
+   taskkill /f /pid 5792

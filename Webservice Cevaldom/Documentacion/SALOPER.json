@@ -1,0 +1,39 @@
+{
+  "SolOperaciones": {
+    "Encabezado": {
+      "PROCESO": " ",
+      "ARCHIVO": " ",
+      "CARGA": " ",
+      "REGISTROS": " ",
+      "ACEPTADOS": " ",
+      "RECHAZADOS": " "
+    },
+    "Detalle": {
+      "Aceptados": {
+        "SOLOPER": {
+          "VENDEDOR": " ",
+          "COMPRADOR": " ",
+          "MECANISMO": " ",
+          "MODALIDAD": " ",
+          "REFERENCIA": " ",
+          "PACTADA": " ",
+          "SOLICITUD": " ",
+          "OPERACION": " ",
+          "VERIFICADOR": " "
+        }
+      },
+      "Rechazados": {
+        "SOLOPER": {
+          "VENDEDOR": " ",
+          "COMPRADOR": " ",
+          "MECANISMO": " ",
+          "MODALIDAD": " ",
+          "REFERENCIA": " ",
+          "PACTADA": " ",
+          "CAMPO": " ",
+          "DESCRIPCION": " "
+        }
+      }
+    }
+  }
+}

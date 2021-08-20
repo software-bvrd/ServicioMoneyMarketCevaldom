@@ -1,0 +1,7 @@
+alter procedure P_GEN_CEVALDOM_OPER_CUENTA_MM
+as
+SELECT count(*) as cantidad FROM vGen_XML_CEVALDOM_MONEYMARKET1
+go 
+
+
+exec P_GEN_CEVALDOM_OPER_CUENTA_MM

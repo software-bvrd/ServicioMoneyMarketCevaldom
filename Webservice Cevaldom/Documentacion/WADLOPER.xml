@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://wadl.dev.java.net/2009/02"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <grammars>   
+    <include href="SOLOPER.xsd"/>
+  </grammars>
+  <resources base="http://prewebserver01.cevaldom.local/ArkinWebServices/api/negotiation/v1/">
+    <resource path="/">
+      <resource path="operationRequest">
+        <method name="POST">
+          <request>
+            <param name="code"  	     type="xsd:string"  style="header" required="true"/>
+            <param name="user"  	     type="xsd:string"  style="header" required="true"/>
+            <param name="date"  	     type="xsd:string"  style="header" required="true"/>
+            <param name="token" 	     type="xsd:string"  style="header" required="true"/>
+            <param name="SolOperaciones" type="xsd:SOLOPER" style="query"  required="true"/>
+          </request>
+          <response>
+            <representation mediaType="application/xml"/>
+          </response>
+        </method>
+      </resource>
+    </resource>
+  </resources>
+</application>

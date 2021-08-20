@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ConOperaciones>
+  <SOLOPER>
+    <VENDEDOR></VENDEDOR>
+    <COMPRADOR></COMPRADOR>
+    <MECANISMO></MECANISMO>
+    <MODALIDAD></MODALIDAD>
+    <REFERENCIA></REFERENCIA>
+    <PACTADA></PACTADA>
+    <SOLICITUD></SOLICITUD>
+    <OPERACION></OPERACION>
+    <TRN></TRN>
+    <ESTADO></ESTADO>
+    </SOLOPER>
+</ConOperaciones>
