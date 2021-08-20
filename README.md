@@ -1,1 +1,1 @@
-# ServicioMoneyMarketCevaldom
+Servicio que permite intercambiar informaciones entre Cevaldom y la Bolsa, basicamente las operaciones del dia de las ruedas programadas Servicio actuales: Registro de Solicitudes de operaciones para la ruedas Bursatiles y ALIQ ante Cevaldom
